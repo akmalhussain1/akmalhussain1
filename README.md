@@ -12,7 +12,8 @@ I build responsive, modern web apps and love solving real-world problems through
 
 ## 📫 Let's Connect
 - Email: mrakmalkhan1234@gmail.com
-- LinkedIn: [https://linkedin.com/in/yourusername](https://www.instagram.com/akmalhussain_1?igsh=MXhxbTR3bTg5d3Jybg==] 👋
+- LinkedIn: https://linkedin.com/in/yourusername]
+- Instagram: (https://www.instagram.com/akmalhussain_1?igsh=MXhxbTR3bTg5d3Jybg==)
 
 <!--
 **akmalhussain1/akmalhussain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
