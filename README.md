@@ -12,7 +12,7 @@ I build responsive, modern web apps and love solving real-world problems through
 
 ## 📫 Let's Connect
 - Email: mrakmalkhan1234@gmail.com
-- LinkedIn: http://linkedin.com/in/akmal-hussain-one
+- LinkedIn: www.linkedin.com/in/akmal-hussain-one
 - Instagram: https://www.instagram.com/akmalhussain_1?igsh=MXhxbTR3bTg5d3Jybg==
 
 <!--
