@@ -10,7 +10,7 @@ I build responsive, modern web apps and love solving real-world problems through
 ## 🔧 Tech Stack
 - React.js • Tailwind CSS • JavaScript • HTML • CSS • Git
 
-## 📫 Let's Connect
+## 📫 Let's Connect 🔗
 - Email: mrakmalkhan1234@gmail.com
 - LinkedIn: www.linkedin.com/in/akmal-hussain-one
 - Instagram: https://www.instagram.com/akmalhussain_1?igsh=MXhxbTR3bTg5d3Jybg==
