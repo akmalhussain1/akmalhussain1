@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Akmal 👋
+
+I'm a self-taught Web Developer focusing on *React.js* and *Tailwind CSS*.  
+I build responsive, modern web apps and love solving real-world problems through code.
+
+## 🚀 Projects
+- (In Process)
+- (In Process)
+
+## 🔧 Tech Stack
+- React.js • Tailwind CSS • JavaScript • HTML • CSS • Git
+
+## 📫 Let's Connect
+- Email: mrakmalkhan1234@gmail.com
+- LinkedIn: [YourLinkedIn]([https://linkedin.com/in/yourusername](https://www.instagram.com/akmalhussain_1?igsh=MXhxbTR3bTg5d3Jybg==))## Hi there 👋
 
 <!--
 **akmalhussain1/akmalhussain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
